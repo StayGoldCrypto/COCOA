@@ -1,5 +1,5 @@
 # COCOA
-COCOA Web3 App (Solana Utility Token)
+COCOA Web3 App (BSC Token)
 
 Thank for Visit Us.
 
